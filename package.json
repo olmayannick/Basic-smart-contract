@@ -17,6 +17,11 @@
   "homepage": "https://github.com/olmayannick/Basic-smart-contract#readme",
   "description": "",
   "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.2.1",
+    "ethers": "^5.7.2",
     "hardhat": "^2.12.5"
+  },
+  "dependencies": {
+    "dotenv": "^16.0.3"
   }
 }
